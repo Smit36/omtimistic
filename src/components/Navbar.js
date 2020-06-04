@@ -6,7 +6,7 @@ export class Navbar extends Component {
       <div>
         <div className='site-mobile-menu site-navbar-target'>
           <div className='site-mobile-menu-header'>
-            <div className='site-mobile-menu-close mt-3'>
+            <div className='site-mobile-menu-close mt-4'>
               <span className='icon-close2 js-menu-toggle'></span>
             </div>
           </div>
@@ -22,7 +22,7 @@ export class Navbar extends Component {
 
           <div
             className='d-inline-block d-lg-none ml-md-0 ml-auto py-3'
-            style={{ position: 'relative', top: '3px' }}
+            style={{ position: 'absoute', top: '43px' }}
           >
             <a href='#' className='site-menu-toggle js-menu-toggle text-white'>
               <span className='icon-menu h3'></span>
@@ -47,11 +47,6 @@ export class Navbar extends Component {
                 </a>
               </li>
               <li>
-                <a href='#section-blog' className='nav-link'>
-                  Blog
-                </a>
-              </li>
-              <li>
                 <a href='#section-contact' className='nav-link'>
                   Reach Out
                 </a>
@@ -59,7 +54,7 @@ export class Navbar extends Component {
             </ul>
             <ul className='social js-clone-nav'>
               <li>
-                <a href='#'>
+                <a href=''>
                   <span className='icon-facebook'></span>
                 </a>
               </li>

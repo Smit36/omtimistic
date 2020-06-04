@@ -5,6 +5,8 @@ import Home from './components/Home';
 import Footer from './components/Footer';
 import Contact from './components/Contact';
 import Content from './components/Content';
+import About from './components/About';
+import Software from './components/Software';
 
 function App() {
   return (
@@ -13,8 +15,10 @@ function App() {
         <Navbar />
         <main className='main-content'>
           <Home />
-          <div class='container-fluid'>
-            <Content />
+          <div className='container-fluid'>
+            <Content />            
+            <About />
+            <Software />
           </div>
           <Contact />
           <Footer />

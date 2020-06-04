@@ -1,16 +1,15 @@
 import React, { Component } from 'react';
-import signature from '../images/sign.JPG';
 export class Home extends Component {
   render() {
     return (
       <div
         className='site-section-hero bg-image'
-        style={{ backgroundImage: `url(${signature})`}}
+        style={{ backgroundImage: `url(${'/images/sign.JPG'})`}}
         data-stellar-background-ratio='0.5'
         id='section-home'
       >
         <div className='row justify-content-center align-items-center'>
-          <div className='col-md-7 text-center'>
+          <div className='col-12 col-md-7 text-center'>
             <h1 className='text-white heading text-uppercase' data-aos='fade-up'>
               Inking Ideas
             </h1>
