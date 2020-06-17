@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/omtimistic/static/css/main.373f0558.chunk.css",
-    "main.js": "/omtimistic/static/js/main.a3d0a7fe.chunk.js",
-    "main.js.map": "/omtimistic/static/js/main.a3d0a7fe.chunk.js.map",
+    "main.js": "/omtimistic/static/js/main.28fa12ff.chunk.js",
+    "main.js.map": "/omtimistic/static/js/main.28fa12ff.chunk.js.map",
     "runtime-main.js": "/omtimistic/static/js/runtime-main.b565e820.js",
     "runtime-main.js.map": "/omtimistic/static/js/runtime-main.b565e820.js.map",
     "static/js/2.74768a19.chunk.js": "/omtimistic/static/js/2.74768a19.chunk.js",
     "static/js/2.74768a19.chunk.js.map": "/omtimistic/static/js/2.74768a19.chunk.js.map",
     "index.html": "/omtimistic/index.html",
-    "precache-manifest.7b0f268a0b3cc7e0162f3cd9419fa7e3.js": "/omtimistic/precache-manifest.7b0f268a0b3cc7e0162f3cd9419fa7e3.js",
+    "precache-manifest.91cc941d51e07f3da4017d850feaa355.js": "/omtimistic/precache-manifest.91cc941d51e07f3da4017d850feaa355.js",
     "service-worker.js": "/omtimistic/service-worker.js",
     "static/css/main.373f0558.chunk.css.map": "/omtimistic/static/css/main.373f0558.chunk.css.map",
     "static/js/2.74768a19.chunk.js.LICENSE.txt": "/omtimistic/static/js/2.74768a19.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b565e820.js",
     "static/js/2.74768a19.chunk.js",
     "static/css/main.373f0558.chunk.css",
-    "static/js/main.a3d0a7fe.chunk.js"
+    "static/js/main.28fa12ff.chunk.js"
   ]
 }
