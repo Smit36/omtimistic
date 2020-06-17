@@ -30,7 +30,7 @@ export class Contact extends Component {
   handleSubmit(e) {
     e.preventDefault();
 
-    fetch('http://localhost:8080/email', {
+    fetch('https://smit36.github.io/omtimistic_backend/email', {
       method: 'POST',
       body: JSON.stringify(this.state),
       headers: {
